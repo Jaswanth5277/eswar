@@ -1,0 +1,20 @@
+body{
+    max-width: 1600px;
+    background: url('https://www.grootan.com/static/og-grootan-ba42b86aed1a71bc869263782bd6aaf4.jpg');
+    font-family: sans-serif;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    position: relative;
+}
+
+.loginbox{
+    width: 100%;
+    color: #fff;
+    max-width: 200px;
+    text-align: left;
+    box-sizing: border-box;
+    position: absolute;
+    right: 5%;
+    margin-top: 30%;
+}
